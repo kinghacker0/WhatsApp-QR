@@ -1,3 +1,5 @@
+![Cover Image](https://github.com/kinghacker0/WhatsApp-QR/blob/main/Cover.png)
+
 # WhatsApp-QR
 Toolkit demonstrating another approach of a QRLJacking attack, allowing to perform of remote account takeover, through sign-in QR code phishing.
 
