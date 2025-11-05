@@ -13,8 +13,8 @@ sudo apt install python3-pip python3-venv firefox-geckodriver
 Install requirement packages
 ```bash
 python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
+source venv\bin\activate
+pip3 install -r requirements.txt
 ```
 #Usage
 ```bash
