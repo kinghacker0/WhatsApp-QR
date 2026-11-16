@@ -25,3 +25,4 @@ python WhatsApp-QR.py
 Now you can see the WhatsApp Web Window and Phishing URL on your terminal.
 #License
 WhatsApp-QR originally made by [zr0n](https://github.com/zr0n/whatsappsess)
+WhatsApp hacked 
